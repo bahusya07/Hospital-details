@@ -1,0 +1,16 @@
+1) I have added a front page(frontpage.html) from where you can redirect to main page i.e index.html by clicking on my page.
+
+2) the main page has different elements
+   
+
+    - anchor tag
+   
+    - video
+
+    - image
+
+    - footer icons which redirect to the given links
+
+    - menu icons
+
+    - added color palate 

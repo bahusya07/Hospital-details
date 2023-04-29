@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "6446ea0b495ccf74d00892f2",
+    "patient_id": "P003",
+    "patient_name": "Tom brown",
+    "gender": "Male",
+    "age": 55,
+    "diagnosis": "Myocardial Infarction",
+    "doctor_name": "Dr. Michael Johnson",
+    "room_number": "R103"
+  },
+  {
+    "_id": "6446ea0b495ccf74d00892f1",
+    "patient_id": "P002",
+    "patient_name": "Sarah Lee",
+    "gender": "Female",
+    "age": 32,
+    "diagnosis": "Gastroenteritis",
+    "doctor_name": "Dr. David Chen",
+    "room_number": "R102"
+  },
+  {
+    "_id": "6446ea0b495ccf74d00892f0",
+    "patient_id": "P001",
+    "patient_name": "John Doe",
+    "gender": "Male",
+    "age": 45,
+    "diagnosis": "Influenza",
+    "doctor_name": "Dr. Jane Smith",
+    "room_number": "R101"
+  },
+  {
+    "_id": "6446ea0b495ccf74d00892f4",
+    "patient_id": "P005",
+    "patient_name": "Adam Jones",
+    "gender": "Male",
+    "age": 40,
+    "diagnosis": "Broken Leg",
+    "doctor_name": "Dr. William Chen",
+    "room_number": "R105"
+  },
+  {
+    "_id": "6446ea0b495ccf74d00892f3",
+    "patient_id": "P004",
+    "patient_name": "Lisa Kim",
+    "gender": "Female",
+    "age": 28,
+    "diagnosis": "Measles",
+    "doctor_name": "Dr. Elizabeth Park",
+    "room_number": "R104"
+  }
+]
